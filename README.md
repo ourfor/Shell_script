@@ -3,6 +3,8 @@ My Shell_script learning note
 
 # Weather
 [Weather](weather.md)
+--- 
+
 
 * 2018年07月17日 星期二 下午 8:54 CST
 * 2018年07月17日 星期二 下午 8:54 CST
@@ -64,3 +66,4 @@ My Shell_script learning note
 * 2018年09月02日 星期Sun AM 7:40 CST   天气: 10-11°C (Amsterdam, Netherlands)
 * 2018年09月02日 星期Sun AM 9:56 CST   天气: 11°C (Amsterdam, Netherlands)
 * 2018年09月02日 星期日 上午11:18 CST   天气: 9-10°C (Amsterdam, Netherlands)
+* 2018年09月03日 星期Mon AM 7:40 CST   天气: 16°C (Amsterdam, Netherlands)
