@@ -16,5 +16,5 @@ echo -e "\n![](PNG/$time)\n" >> /root/Shell_script/weather.md
 
 cd /root/Shell_script
 git add .
-git commit -m "update Today's log"
+git commit -m "update Today's log:)"
 git push -f origin master
