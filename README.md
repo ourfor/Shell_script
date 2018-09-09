@@ -74,3 +74,4 @@ My Shell_script learning note
 * 2018年09月06日 星期Thu PM11:40 CST   天气: 17°C (Amsterdam, Netherlands)
 * 2018年09月07日 星期Fri PM11:40 CST   天气: 16°C (Amsterdam, Netherlands)
 * 2018年09月08日 星期Sat PM11:40 CST   天气: 17°C (Amsterdam, Netherlands)
+* 2018年09月09日 星期Sun PM11:40 CST   天气: 22-25°C (Amsterdam, Netherlands)
