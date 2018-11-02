@@ -220,3 +220,4 @@ My Shell_script learning note
 * 2018年11月02日 星期Fri PM 2:40 CST   天气: 7-10°C (Amsterdam, Netherlands)
 * 2018年11月02日 星期Fri PM 3:00 CST   天气: 5-8°C (Amsterdam, Netherlands)
 * 2018年11月02日 星期Fri PM 3:20 CST   天气: 5-8°C (Amsterdam, Netherlands)
+* 2018年11月02日 星期Fri PM 3:40 CST   天气: 5-8°C (Amsterdam, Netherlands)
