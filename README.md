@@ -252,3 +252,4 @@ My Shell_script learning note
 * 2018年11月03日 星期Sat AM 1:20 CST   天气: 6-7°C (Amsterdam, Netherlands)
 * 2018年11月03日 星期Sat AM 1:40 CST   天气: 6-7°C (Amsterdam, Netherlands)
 * 2018年11月03日 星期Sat AM 2:00 CST   天气: 5-7°C (  _`/"".-.     Shower In Vicinity, Light Rain Shower)
+* 2018年11月03日 星期Sat AM 2:20 CST   天气: 5-7°C (  _`/"".-.     Shower In Vicinity, Light Rain Shower)
