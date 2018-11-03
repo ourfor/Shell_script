@@ -318,3 +318,4 @@ My Shell_script learning note
 * 2018年11月03日 星期Sat PM11:00 CST   天气: 
 * 2018年11月03日 星期Sat PM11:20 CST   天气: 6-9°C (Amsterdam, Netherlands)
 * 2018年11月03日 星期Sat PM11:40 CST   天气: 6-9°C (Amsterdam, Netherlands)
+* 2018年11月04日 星期Sun AM12:00 CST   天气: 5-8°C (Amsterdam, Netherlands)
