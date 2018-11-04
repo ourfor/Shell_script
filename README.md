@@ -375,3 +375,4 @@ My Shell_script learning note
 * 2018年11月04日 星期Sun PM 5:40 CST   天气: 1-4°C (Amsterdam, Netherlands)
 * 2018年11月04日 星期Sun PM 6:00 CST   天气: 2-5°C (Amsterdam, Netherlands)
 * 2018年11月04日 星期Sun PM 6:20 CST   天气: 2-5°C (Amsterdam, Netherlands)
+* 2018年11月04日 星期Sun PM 6:40 CST   天气: 2-5°C (Amsterdam, Netherlands)
