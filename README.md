@@ -379,3 +379,4 @@ My Shell_script learning note
 * 2018年11月04日 星期Sun PM 7:00 CST   天气: 5-8°C (Amsterdam, Netherlands)
 * 2018年11月04日 星期Sun PM 7:20 CST   天气: 5-8°C (Amsterdam, Netherlands)
 * 2018年11月04日 星期Sun PM 7:40 CST   天气: 5-8°C (Amsterdam, Netherlands)
+* 2018年11月04日 星期Sun PM 8:00 CST   天气: 6-9°C (Amsterdam, Netherlands)
