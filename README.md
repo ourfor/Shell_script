@@ -417,3 +417,4 @@ My Shell_script learning note
 * 2018年11月05日 星期Mon AM 7:20 CST   天气: 5-7°C (Amsterdam, Netherlands)
 * 2018年11月05日 星期Mon AM 7:40 CST   天气: 5-7°C (Amsterdam, Netherlands)
 * 2018年11月05日 星期Mon AM 8:00 CST   天气: 4-6°C (Amsterdam, Netherlands)
+* 2018年11月05日 星期Mon AM 8:20 CST   天气: 4-6°C (Amsterdam, Netherlands)
