@@ -683,3 +683,4 @@ My Shell_script learning note
 * 2018年11月08日 星期Thu PM11:00 CST   天气: 
 * 2018年11月08日 星期Thu PM11:20 CST   天气: 10-12°C (Amsterdam, Netherlands)
 * 2018年11月08日 星期Thu PM11:40 CST   天气: 10-12°C (Amsterdam, Netherlands)
+* 2018年11月09日 星期Fri AM12:00 CST   天气: 8-10°C (Amsterdam, Netherlands)
