@@ -873,3 +873,4 @@ My Shell_script learning note
 * 2018年11月11日 星期Sun PM 1:20 CST   天气: 8-11°C (  _`/"".-.     Light Rain Shower, Rain Shower)
 * 2018年11月11日 星期Sun PM 1:40 CST   天气: 8-11°C (  _`/"".-.     Light Rain Shower, Rain Shower)
 * 2018年11月11日 星期Sun PM 2:00 CST   天气: 8-11°C (Amsterdam, Netherlands)
+* 2018年11月11日 星期Sun PM 2:20 CST   天气: 8-11°C (Amsterdam, Netherlands)
