@@ -958,3 +958,4 @@ My Shell_script learning note
 * 2018年11月12日 星期Mon PM 5:20 CST   天气: 8-10°C (      .-.      Light Drizzle And Rain, Mist)
 * 2018年11月12日 星期Mon PM 5:40 CST   天气: 8-10°C (      .-.      Light Drizzle And Rain, Mist)
 * 2018年11月12日 星期Mon PM 6:00 CST   天气: 9-11°C (      .-.      Light Drizzle, Mist)
+* 2018年11月12日 星期Mon PM 6:20 CST   天气: 9-11°C (      .-.      Light Drizzle, Mist)
