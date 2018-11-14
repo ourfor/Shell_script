@@ -1095,3 +1095,4 @@ My Shell_script learning note
 * 2018年11月14日 星期Wed PM 2:20 CST   天气: 
 * 2018年11月14日 星期Wed PM 2:40 CST   天气: 
 * 2018年11月14日 星期Wed PM 3:00 CST   天气: 
+* 2018年11月14日 星期Wed PM 3:20 CST   天气: 5-7°C (Amsterdam, Netherlands)
