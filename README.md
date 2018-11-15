@@ -1207,3 +1207,4 @@ My Shell_script learning note
 * 2018年11月16日 星期Fri AM 3:00 CST   天气: 7-8°C (Amsterdam, Netherlands)
 * 2018年11月16日 星期Fri AM 3:20 CST   天气: 7-8°C (Amsterdam, Netherlands)
 * 2018年11月16日 星期Fri AM 3:40 CST   天气: 7-8°C (Amsterdam, Netherlands)
+* 2018年11月16日 星期Fri AM 4:00 CST   天气: 6-8°C (Amsterdam, Netherlands)
