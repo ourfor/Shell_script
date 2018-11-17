@@ -1310,3 +1310,4 @@ My Shell_script learning note
 * 2018年11月17日 星期Sat PM 1:00 CST   天气: 62°F (Los Angeles, United States of America)
 * 2018年11月17日 星期Sat PM 1:20 CST   天气: 62°F (Los Angeles, United States of America)
 * 2018年11月17日 星期Sat PM 1:40 CST   天气: 62°F (Los Angeles, United States of America)
+* 2018年11月17日 星期Sat PM 2:00 CST   天气: 60°F (Los Angeles, United States of America)
