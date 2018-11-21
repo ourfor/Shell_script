@@ -1497,3 +1497,4 @@ My Shell_script learning note
 * 2018年11月21日 星期Wed PM11:00 CST   天气: 11-13°C (  _`/"".-.     Light Rain Shower, Rain Shower, Mist)
 * 2018年11月21日 星期Wed PM11:20 CST   天气: 11-13°C (  _`/"".-.     Light Rain Shower, Rain Shower, Mist)
 * 2018年11月21日 星期Wed PM11:40 CST   天气: 11-13°C (  _`/"".-.     Light Rain Shower, Rain Shower, Mist)
+* 2018年11月22日 星期Thu AM12:00 CST   天气: 11-12°C (  _`/"".-.     Rain Shower, Mist)
