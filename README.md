@@ -1570,3 +1570,4 @@ My Shell_script learning note
 * 2018年11月22日 星期Thu PM11:00 CST   天气: 11-13°C (Heiwajima, Japan)
 * 2018年11月22日 星期Thu PM11:20 CST   天气: 11-13°C (Heiwajima, Japan)
 * 2018年11月22日 星期Thu PM11:40 CST   天气: 11-13°C (Heiwajima, Japan)
+* 2018年11月23日 星期Fri AM12:00 CST   天气: 11-13°C (Heiwajima, Japan)
