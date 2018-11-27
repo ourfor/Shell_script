@@ -1887,3 +1887,4 @@ My Shell_script learning note
 * 2018年11月27日 星期Tue AM 7:00 CST   天气: 12-13°C (      .-.      Light Rain, Mist)
 * 2018年11月27日 星期Tue AM 7:20 CST   天气: 12-13°C (      .-.      Light Rain, Mist)
 * 2018年11月27日 星期Tue AM 7:40 CST   天气: 12-13°C (      .-.      Light Rain, Mist)
+* 2018年11月27日 星期Tue AM 8:00 CST   天气: 12-14°C (Heiwajima, Japan)
