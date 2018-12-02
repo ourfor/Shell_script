@@ -2297,3 +2297,4 @@ My Shell_script learning note
 * 2018年12月02日 星期Sun PM10:00 CST   天气: 8-10°C (  _`/"".-.     Light Rain Shower, Mist)
 * 2018年12月02日 星期Sun PM10:20 CST   天气: 8-10°C (  _`/"".-.     Light Rain Shower, Mist)
 * 2018年12月02日 星期Sun PM10:40 CST   天气: 8-10°C (  _`/"".-.     Light Rain Shower, Mist)
+* 2018年12月02日 星期Sun PM11:00 CST   天气: 8-10°C (Heiwajima, Japan)
