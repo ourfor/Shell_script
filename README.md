@@ -2381,3 +2381,4 @@ My Shell_script learning note
 * 2018年12月05日 星期Wed AM 1:00 CST   天气: 20°C (Heiwajima, Japan)
 * 2018年12月05日 星期Wed AM 1:20 CST   天气: 20°C (Heiwajima, Japan)
 * 2018年12月05日 星期Wed AM 1:40 CST   天气: 20°C (Heiwajima, Japan)
+* 2018年12月05日 星期Wed AM 2:00 CST   天气: 18°C (Heiwajima, Japan)
