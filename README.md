@@ -2509,3 +2509,4 @@ My Shell_script learning note
 * 2018年12月06日 星期Thu PM 7:00 CST   天气: 
 * 2018年12月06日 星期Thu PM 7:20 CST   天气: 
 * 2018年12月06日 星期Thu PM 7:40 CST   天气: 
+* 2018年12月06日 星期Thu PM 8:00 CST   天气: 
