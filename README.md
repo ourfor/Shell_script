@@ -2483,3 +2483,4 @@ My Shell_script learning note
 * 2018年12月06日 星期Thu AM10:20 CST   天气: 7-10°C (      .-.      Light Rain, Mist)
 * 2018年12月06日 星期Thu AM10:40 CST   天气: 7-10°C (      .-.      Light Rain, Mist)
 * 2018年12月06日 星期Thu AM11:00 CST   天气: 8-11°C (Heiwajima, Japan)
+* 2018年12月06日 星期Thu AM11:20 CST   天气: 8-11°C (Heiwajima, Japan)
