@@ -2831,3 +2831,4 @@ My Shell_script learning note
 * 2018年12月11日 星期Tue PM10:00 CST   天气: 1-5°C (      .-.      Light Rain, Mist)
 * 2018年12月11日 星期Tue PM10:20 CST   天气: 1-5°C (      .-.      Light Rain, Mist)
 * 2018年12月11日 星期Tue PM10:40 CST   天气: 1-5°C (      .-.      Light Rain, Mist)
+* 2018年12月11日 星期Tue PM11:00 CST   天气: -1-4°C (      .-.      Light Rain, Mist)
