@@ -2839,3 +2839,4 @@ My Shell_script learning note
 * 2018年12月12日 星期Wed AM12:40 CST   天气: -1-5°C (      .-.      Light Rain, Rain, Mist)
 * 2018年12月12日 星期Wed AM 1:00 CST   天气: -1-4°C (      .-.      Rain, Mist)
 * 2018年12月12日 星期Wed AM 1:20 CST   天气: -1-4°C (      .-.      Rain, Mist)
+* 2018年12月12日 星期Wed AM 1:40 CST   天气: -1-4°C (      .-.      Rain, Mist)
