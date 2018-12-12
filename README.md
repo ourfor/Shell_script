@@ -2920,3 +2920,4 @@ My Shell_script learning note
 * 2018年12月13日 星期Thu AM 3:00 CST   天气: 3-8°C (Heiwajima, Japan)
 * 2018年12月13日 星期Thu AM 3:20 CST   天气: 3-8°C (Heiwajima, Japan)
 * 2018年12月13日 星期Thu AM 3:40 CST   天气: 3-8°C (Heiwajima, Japan)
+* 2018年12月13日 星期Thu AM 4:00 CST   天气: 4-8°C (Heiwajima, Japan)
