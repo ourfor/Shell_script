@@ -3017,3 +3017,4 @@ My Shell_script learning note
 * 2018年12月14日 星期Fri AM11:00 CST   天气: 6-10°C (Heiwajima, Japan)
 * 2018年12月14日 星期Fri AM11:20 CST   天气: 6-10°C (Heiwajima, Japan)
 * 2018年12月14日 星期Fri AM11:40 CST   天气: 6-10°C (Heiwajima, Japan)
+* 2018年12月14日 星期Fri PM12:00 CST   天气: 6-9°C (Heiwajima, Japan)
