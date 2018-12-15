@@ -3139,3 +3139,4 @@ My Shell_script learning note
 * 2018年12月16日 星期Sun AM 3:00 CST   天气: 0-3°C (Heiwajima, Japan)
 * 2018年12月16日 星期Sun AM 3:20 CST   天气: 0-3°C (Heiwajima, Japan)
 * 2018年12月16日 星期Sun AM 3:40 CST   天气: 0-3°C (Heiwajima, Japan)
+* 2018年12月16日 星期Sun AM 4:00 CST   天气: 2-4°C (Heiwajima, Japan)
