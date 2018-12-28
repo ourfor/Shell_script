@@ -4051,3 +4051,4 @@ My Shell_script learning note
 * 2018年12月28日 星期Fri PM 3:00 CST   天气: 4-8°C (Heiwajima, Japan)
 * 2018年12月28日 星期Fri PM 3:20 CST   天气: 4-8°C (Heiwajima, Japan)
 * 2018年12月28日 星期Fri PM 3:40 CST   天气: 4-8°C (Heiwajima, Japan)
+* 2018年12月28日 星期Fri PM 4:00 CST   天气: 2-7°C (Heiwajima, Japan)
