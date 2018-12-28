@@ -4085,3 +4085,4 @@ My Shell_script learning note
 * 2018年12月29日 星期Sat AM 2:20 CST   天气: 0-5°C (Heiwajima, Japan)
 * 2018年12月29日 星期Sat AM 2:40 CST   天气: 0-5°C (Heiwajima, Japan)
 * 2018年12月29日 星期Sat AM 2:59 CST   天气: 0-5°C (Heiwajima, Japan)
+* 2018年12月29日 星期Sat AM 3:00 CST   天气: -1-4°C (Heiwajima, Japan)
