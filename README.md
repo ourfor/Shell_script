@@ -4770,3 +4770,4 @@ My Shell_script learning note
 * 2019年01月07日 星期Mon AM11:40 CST   天气: 7-10°C (Heiwajima, Japan)
 * 2019年01月07日 星期Mon PM12:00 CST   天气: 7-10°C (Heiwajima, Japan)
 * 2019年01月07日 星期Mon PM12:20 CST   天气: 7-10°C (Heiwajima, Japan)
+* 2019年01月10日 星期Thu AM12:00 CST   天气: 1-3°C (Heiwajima, Japan)
