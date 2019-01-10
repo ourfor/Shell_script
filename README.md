@@ -4846,3 +4846,4 @@ My Shell_script learning note
 * 2019年01月11日 星期Fri AM12:00 CST   天气: 0-2°C (Heiwajima, Japan)
 * 2019年01月11日 星期Fri AM12:20 CST   天气: 0-2°C (Heiwajima, Japan)
 * 2019年01月11日 星期Fri AM12:40 CST   天气: 0-2°C (Heiwajima, Japan)
+* 2019年01月11日 星期Fri AM 1:00 CST   天气: 5°C (Heiwajima, Japan)
