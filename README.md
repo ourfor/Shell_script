@@ -4916,3 +4916,4 @@ My Shell_script learning note
 * 2019年01月11日 星期Fri PM11:00 CST   天气: -4-0°C ()
 * 2019年01月11日 星期Fri PM11:20 CST   天气: -4-0°C ()
 * 2019年01月11日 星期Fri PM11:40 CST   天气: -4-0°C ()
+* 2019年01月12日 星期Sat AM12:00 CST   天气: -5-0°C ()
