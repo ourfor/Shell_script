@@ -5141,3 +5141,4 @@ My Shell_script learning note
 * 2019年01月15日 星期Tue AM 1:00 CST   天气: 7°C (Heiwajima, Japan)
 * 2019年01月15日 星期Tue AM 1:20 CST   天气: 7°C (Heiwajima, Japan)
 * 2019年01月15日 星期Tue AM 1:40 CST   天气: 7°C (Heiwajima, Japan)
+* 2019年01月15日 星期Tue AM 2:00 CST   天气: 3-5°C (Heiwajima, Japan)
