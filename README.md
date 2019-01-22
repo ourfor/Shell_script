@@ -5738,3 +5738,4 @@ My Shell_script learning note
 * 2019年01月23日 星期Wed AM 5:00 CST   天气: 2-5°C (Heiwajima, Japan)
 * 2019年01月23日 星期Wed AM 5:20 CST   天气: 2-5°C (Heiwajima, Japan)
 * 2019年01月23日 星期Wed AM 5:40 CST   天气: 2-5°C (Heiwajima, Japan)
+* 2019年01月23日 星期Wed AM 6:00 CST   天气: 0-4°C (Heiwajima, Japan)
