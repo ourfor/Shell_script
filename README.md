@@ -6087,3 +6087,4 @@ My Shell_script learning note
 * 2019年01月28日 星期Mon AM12:00 CST   天气: 6°C (Heiwajima, Japan)
 * 2019年01月28日 星期Mon AM12:20 CST   天气: 6°C (Heiwajima, Japan)
 * 2019年01月28日 星期Mon AM12:40 CST   天气: 6°C (Heiwajima, Japan)
+* 2019年01月28日 星期Mon AM 1:00 CST   天气: 2-4°C (Heiwajima, Japan)
