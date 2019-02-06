@@ -6781,3 +6781,4 @@ My Shell_script learning note
 * 2019年02月06日 星期Wed PM12:00 CST   天气: 3-7°C (      .-.      Rain, Mist)
 * 2019年02月06日 星期Wed PM12:20 CST   天气: 3-7°C (      .-.      Rain, Mist)
 * 2019年02月06日 星期Wed PM12:40 CST   天气: 3-7°C (      .-.      Rain, Mist)
+* 2019年02月06日 星期Wed PM 1:00 CST   天气: 
