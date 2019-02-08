@@ -6924,3 +6924,4 @@ My Shell_script learning note
 * 2019年02月08日 星期Fri AM11:00 CST   天气: 4-7°C (Heiwajima, Japan)
 * 2019年02月08日 星期Fri AM11:20 CST   天气: 4-7°C (Heiwajima, Japan)
 * 2019年02月08日 星期Fri AM11:40 CST   天气: 4-7°C (Heiwajima, Japan)
+* 2019年02月08日 星期Fri PM12:00 CST   天气: 3-7°C (Heiwajima, Japan)
