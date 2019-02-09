@@ -6988,3 +6988,4 @@ My Shell_script learning note
 * 2019年02月09日 星期Sat AM 8:00 CST   天气: 2-6°C (Heiwajima, Japan)
 * 2019年02月09日 星期Sat AM 8:20 CST   天气: 2-6°C (Heiwajima, Japan)
 * 2019年02月09日 星期Sat AM 8:40 CST   天气: 2-6°C (Heiwajima, Japan)
+* 2019年02月09日 星期Sat AM 9:00 CST   天气: -3-2°C (  _`/"".-.     Light Rain And Snow Shower, Light Snow)
